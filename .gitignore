@@ -1,0 +1,15 @@
+# Arquivos sensíveis
+*.seed
+*.mnemonic
+*passphrase*
+*private*
+*key*
+*wallet*
+*.dat
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
