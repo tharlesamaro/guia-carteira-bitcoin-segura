@@ -436,11 +436,11 @@ Sua sequência de 256 bits ficará assim:
 ## 🔧 **Por que usar SeedPicker ao invés do Electrum?**
 
 ### **Vantagens do SeedPicker:**
-✅ **Transparência Total:** Você controla cada bit de entropia
-✅ **Verificável:** Processo auditável por qualquer pessoa
-✅ **Sem Dependência:** Não confia no RNG do computador
-✅ **Educativo:** Você aprende como funciona a geração de seeds
-✅ **Resistente a Ataques:** Mesmo RNGs comprometidos não afetam sua seed
+- ✅ **Transparência Total:** Você controla cada bit de entropia
+- ✅ **Verificável:** Processo auditável por qualquer pessoa
+- ✅ **Sem Dependência:** Não confia no RNG do computador
+- ✅ **Educativo:** Você aprende como funciona a geração de seeds
+- ✅ **Resistente a Ataques:** Mesmo RNGs comprometidos não afetam sua seed
 
 ### **Métodos de Entropia Suportados:**
 
